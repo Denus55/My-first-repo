@@ -1,8 +1,8 @@
 div div {
-  width: 150px; 
   position: absolute;
-  right: 0;
   bottom: 0;
+  left: 0;
+  width: 150px;
   font-family: "Rubik Bubbles";
 }
 div {
